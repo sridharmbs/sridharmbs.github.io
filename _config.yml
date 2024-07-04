@@ -47,8 +47,9 @@ roles:
    start: Oct 2010
    end: Apr 2021
    employer: Mindtree 
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
+   description: Played role of Test Manager, Involved in Testing and managing Test team of 12 members.Preparing Test plan ,Test strategy and handing over of Test deliverables to Client .Attending meeting with Onsite Stake holders (Scrum Master / BA) /Client..Managing Mobile Testing team (Android /iOS) 
+	              As Test Lead handled smaller teams in different domains like FMCG, Travel and Transport , Hospitality .As Test Engineer involved in Test Case preparation, Test Case Execution, Selenium Automation Script development , API Testing , Mobile Automation , Mobile Testing and POS machine Testing.
+
    start: 2005
    end: 2012
    employer: Accenture
@@ -56,10 +57,10 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Bachelor of Engineering (B.E)
+   date: 2005
+   subject: Civil Engineering
+   school: Visveswaraih Institute of Technology
 
 #This section is optional (as is the image link below)
 coursera:
