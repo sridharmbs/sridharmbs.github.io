@@ -48,12 +48,19 @@ roles:
    end: Apr 2021
    employer: Mindtree 
    description: Played role of Test Manager, Involved in Testing and managing Test team of 12 members.Preparing Test plan ,Test strategy and handing over of Test deliverables to Client .Attending meeting with Onsite Stake holders (Scrum Master / BA) /Client..Managing Mobile Testing team (Android /iOS) 
-	              As Test Lead handled smaller teams in different domains like FMCG, Travel and Transport , Hospitality .As Test Engineer involved in Test Case preparation, Test Case Execution, Selenium Automation Script development , API Testing , Mobile Automation , Mobile Testing and POS machine Testing.
-
-   start: 2005
-   end: 2012
+                As Test Lead handled smaller teams in different domains like FMCG, Travel and Transport , Hospitality .As Test Engineer involved in Test Case preparation, Test Case Execution, Selenium Automation Script development , API Testing , Mobile Automation , Mobile Testing and POS machine Testing.
+  - title: Sr Test Engineer
+   start: Jan 2010
+   end: Sep 2010
    employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   description: Involved in Test Case Creation and Test Execution along with Defect logging and tracking . QTP Automation script development and execution.
+- title: Sr Test Engineer
+   start: Jun 2007
+   end: Jan 2010
+   employer: HP EDS
+   description: Involved in Test Case Creation and Test Execution along with Defect logging and tracking.QTP Automation script execution.
+
+   
 
 #Education is required
 education:
