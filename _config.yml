@@ -20,6 +20,7 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Scrum 
+ - SAFe Agile
  - Selenium 
  - Postman
  - Appium
@@ -34,10 +35,10 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Scrum Master
+   start: 2021
    end: Ongoing
-   employer: Basement Crowd
+   employer: QubiQ3
    description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
  - title: Senior Engineer
    start: 2016
