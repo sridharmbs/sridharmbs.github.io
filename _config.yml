@@ -9,8 +9,6 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://automateddeveloper.blogspot.com/
  - title: GitHub
    url: https://sridharmbs.github.io/
  - title: LinkedIn
@@ -20,7 +18,7 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Scrum 
- - SAFe Agile
+ - SAFe 6.0 Agile 
  - Selenium 
  - Postman
  - Appium
