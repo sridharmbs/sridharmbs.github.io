@@ -33,7 +33,7 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: Scrum Master
+ - title:Scrum Master
    start: Feb 2022
    end: Ongoing
    employer: QubiQ3
