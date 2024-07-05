@@ -1,7 +1,7 @@
 # Site settings
 title:SRIDHAR
 twitter_username: rob_hinds
-name: Sridhara Murthy B S
+name:Sridhara Murthy B S
 
 # Build settings
 markdown: kramdown
@@ -9,9 +9,9 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: GitHub
+ - title:GitHub
    url: https://sridharmbs.github.io/
- - title: LinkedIn
+ - title:LinkedIn
    url: https://www.linkedin.com/in/sridharamurthy/
  
 
