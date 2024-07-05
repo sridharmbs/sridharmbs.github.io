@@ -34,27 +34,27 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 #Work experience is required
 roles:
  - title: Scrum Master
-   start: Feb 2022
+   start: 2022
    end: Ongoing
    employer: QubiQ3
    description: Working as Scrum Master CSM Certified for the past 6 years with  SCRUM and SAFe Agile Framework experience .Also have fair knowledge of Kanban, Crystal and XP Agile Framework. Performed higher level of Project Management also. 
-   start: Apr 2021
-   end: Jan 2022
+   start: 2021
+   end:  2022
    employer: Nous Infosystem
    description: Worked as Scrum Master for a team of 21 members comprising of 3 Teams where in performed "Scrum of Scrum" where in there were mutliple teams which had dependency.   
  - title: Scrum Master
-   start: Oct 2010
-   end: Apr 2021
+   start: O2010
+   end: 2021
    employer: Mindtree 
    description: Played role of Test Manager, Involved in Testing and managing Test team of 12 members.Preparing Test plan ,Test strategy and handing over of Test deliverables to Client .Attending meeting with Onsite Stake holders (Scrum Master / BA) /Client..Managing Mobile Testing team (Android /iOS)  As Test Lead handled smaller teams in different domains like FMCG, Travel and Transport , Hospitality .As Test Engineer involved in Test Case preparation, Test Case Execution, Selenium Automation Script development , API Testing , Mobile Automation , Mobile Testing and POS machine Testing.
   - title: Sr Test Engineer
-   start: Jan 2010
-   end: Sep 2010
+   start: 2010
+   end: 2010
    employer: Accenture
    description: Involved in Test Case Creation and Test Execution along with Defect logging and tracking . QTP Automation script development and execution.
 - title: Sr Test Engineer
-   start: Jun 2007
-   end: Jan 2010
+   start: 2007
+   end: 2010
    employer: HP EDS
    description: Involved in Test Case Creation and Test Execution along with Defect logging and tracking.QTP Automation script execution.
 
