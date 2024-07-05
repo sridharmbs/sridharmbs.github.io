@@ -6,18 +6,20 @@ name: Sridhara Murthy B S
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
-
+   url: https://sridharmbs.github.io/
+ 
 #Any buzzword skills you want to include
 skills:
- - Groovy
- - Spring MVC
- - Spring Boot
+ - Scrum
+ - SAFe Agile
+ - JIRA, HP ALM, Azure DevOps, Zephyr, Bugzilla, AEM, Confluence . ASANA
+ - Selenium, Postman, Appium, TestNg , SOAP UI, Postman
+ - Manual and Automation testing (Web and Mobile), Firmware & API Testing 
+ - GUI, Compatibility, System, Integration, Regression, Device (Tab , Mobile, POS), License, Package, Localization and Smoke testing
+ - Google Analytics
+ - Azure
+ 
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
