@@ -33,7 +33,7 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: Scrum Master
+ - title: Scrum Master QA Manager
    start: 2022
    end: Ongoing
    employer: QubiQ3
@@ -42,7 +42,7 @@ roles:
    employer: Nous Infosystem
    description: Worked as Scrum Master for a team of 21 members comprising of 3 Teams where in performed "Scrum of Scrum" where in there were mutliple teams which had dependency.   
  - title: Scrum Master
-   start: O2010
+   start: 2010
    end: 2021
    employer: Mindtree 
    description: Played role of Test Manager, Involved in Testing and managing Test team of 12 members.Preparing Test plan ,Test strategy and handing over of Test deliverables to Client .Attending meeting with Onsite Stake holders (Scrum Master / BA) /Client..Managing Mobile Testing team (Android /iOS)  As Test Lead handled smaller teams in different domains like FMCG, Travel and Transport , Hospitality .As Test Engineer involved in Test Case preparation, Test Case Execution, Selenium Automation Script development , API Testing , Mobile Automation , Mobile Testing and POS machine Testing.
