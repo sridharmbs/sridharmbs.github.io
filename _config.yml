@@ -28,11 +28,19 @@ skills:
  - SQL
 roles:
  - title: Scrum Master QA Manager
-   start: 2022
+   start: Feb 2022
    end: Ongoing
    employer: QubiQ3
    description: Working as Scrum Master CSM Certified for the past 6 years with  SCRUM and SAFe Agile Framework experience .Also have fair knowledge of Kanban, Crystal and XP Agile Framework.Performed higher level of Project Management also. 
+  
+roles:
+ - title: Scrum Master QA Manager
+   start: Apr 2021
+   end: Jan 20222
+   employer: Nous Infosystems
+   description: Working as Scrum Master CSM Certified for the past 6 years with  SCRUM and SAFe Agile Framework experience .Also have fair knowledge of Kanban, Crystal and XP Agile Framework.Performed higher level of Project Management also. 
    end:  2022
+   
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
